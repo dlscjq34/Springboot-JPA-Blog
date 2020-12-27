@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/myjspdb?serverTimezone=Asia/Seoul
+    username: myjspid
+    password: myjsppass
+
+
+#spring.datasource.url=jdbc:mysql://localhost:3306/myjspdb?serverTimezone=Asia/Seoul
+#spring.datasource.username=myjspid
+#spring.datasource.password=myjsppass
+#spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
